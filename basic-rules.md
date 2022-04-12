@@ -1,16 +1,26 @@
 # Basic Rules
 
-* Once you are in the house, I kindly ask that remove your shoes.
-* No Smoking.
-* No Parties.
-* Please keep your room closed when you are not around.
-* When you leave, please make sure your room window is shut.
-* Please do not have video/phone conversations in the lounge/dining area.
+* 🤫 Quiet neighbour policy applies. Parties, weddings or other functions are not permitted
+* 🚭 No Smoking.
+* 👞 Once you are in the apartment, I kindly ask that remove your shoes.
+* 👨‍👩‍👧‍👦 No unannounced overnight guests.
+* 👫 Visitors are allowed only if you have **discussed** this with me first.
+* 🙈 Please do not leave dirty dishes.
+* ❄️ Please turn off A/C and lights when you are not using them.
+* ❤️‍🩹 Please report any damages.
+* 📣 Please do not have video/phone conversations in the lounge/dining area.
+* 🚪 Please keep your room closed when you are not around.
+* 🪟 When you leave, please make sure your room window is shut.
 
-!> I work from home and these can be quite distracting 
+In general, please treat this space with the same care as you would treat your home 😉👍
 
-* No extra/surprise guests - I expect that the guests not have any unannounced overnight guests.
+# Misc.
 
-!> Visitors are allowed only if you have * discussed this with me first.
+## Lost Keystone
 
-* Please be respectful - If you come in late at night, keep the noise to a minimum.
+* If you lose your keys, a $150 fee will be deducted from your deposit.
+
+## Lockouts
+
+* If you lock yourself out, there will be a $50 lockout fee deducted from your deposit.
+* Letting you back in the apartment depends on the availability of person who has the spare keys.
