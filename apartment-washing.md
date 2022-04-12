@@ -1,7 +1,10 @@
 # Washer / Dryer
 
-If you need to wash your clothes, please let me know and I’ll explain how to work the washer. The cost of using the washer is $5 and I provide the detergent.
+There is no charge to use the washer/dryer, but please:
 
-You can then hang the clothes in the balcony to dry or use the dryer for an additional fee.
+* Make sure you use your own detergent to wash your clothes.
+* Do not use the wash if you are going to wash a few garments - it is wasteful.
 
-?> If you are staying here for more than a week, you can use the washer for free, I only as that you use your own detergent.
+## Washer/Dryer Instructions
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/693959196?h=6d05c5d16f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Zetland AirBnB - Washer and Dryer"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
