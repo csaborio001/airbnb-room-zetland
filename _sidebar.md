@@ -13,4 +13,4 @@
   - [Checking Out](checking-out.md)
 - Other
   - [Restaurants](restaurants.md)
-  -
+
