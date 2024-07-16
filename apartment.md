@@ -6,9 +6,11 @@ Once you get to the building, follow the instructions to call apartment 47 and I
 
 ?> To buzz in, use the intercom an enter **4722**
 
-Walkthrough of getting to the apartment:
+## Walkthrough of getting to the apartment:
 
-https://goo.gl/UjTJCW
+(please note that the apartment entrance looks difference than the video, but procedure is the same)
+
+<iframe src="https://player.vimeo.com/video/984698616?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="960" height="540" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Getting Here"></iframe>
 
 !> Please note that building has been renovated since the video was made!
 
