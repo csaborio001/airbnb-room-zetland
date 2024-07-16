@@ -1,5 +1,11 @@
 # Apartment Wifi
 
+QR Code:
+
+<div class="image-container">
+    <img src="img/wifi/qrcode.png" class="front-image" />
+</div>
+
 Wi-Fi Name:
 
 **NoCapisco**

@@ -10,7 +10,6 @@
   - [Trash/Recycle](apartment-trash.md)
 - House Rules
   - [Basic Rules](basic-rules.md)
-  - [Nougat](nougat.md)
   - [Checking Out](checking-out.md)
 - Other
   - [Restaurants](restaurants.md)
